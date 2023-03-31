@@ -3,11 +3,11 @@ Shell-Scripts for different-2 problems
 
 
 
-1) Write a shell script tp print 
-•	your are logged in as which user
-•	in which directory you are
-•	and in which terminal you are working
-•	total number of files and directories in current directory
+1) Write a shell script tp print <br />
+•	your are logged in as which user <br />
+•	in which directory you are <br />
+•	and in which terminal you are working <br />
+•	total number of files and directories in current directory <br />
  
  2) Write a shell script to create a command line calculator. 
 e.g. input : mycal 5 + 5 Result : 10 , input : mycal 5 / 5 result : 1
@@ -41,16 +41,16 @@ qty_sold should be greater than 0
 
 
 
-12) Write a shell script to display a directory listing as follows. Your home directory is <home directory name> 
-File name date time permission 
-------------- ------ ----- --------------- 
-Filename1 date time permission 
-Filename2 date time permission 
-Filename3 date time permission 
-……….. 
-……….. 
-Total no. of files : <total number> 
-Total no of normal file : <number> 
-Total no of directory : <number>
+12) Write a shell script to display a directory listing as follows. Your home directory is <home directory name>  <br />
+File name date time permission <br />
+------------- ------ ----- --------------- <br />
+Filename1 date time permission <br />
+Filename2 date time permission <br />
+Filename3 date time permission <br />
+……….. <br />
+……….. <br />
+Total no. of files : <total number> <br />
+Total no of normal file : <number> <br />
+Total no of directory : <number><br />
 
 
