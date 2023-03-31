@@ -9,7 +9,7 @@ Shell-Scripts for different-2 problems
 •	and in which terminal you are working
 •	total number of files and directories in current directory
  
-2). Write a shell script to create a command line calculator. 
+ 2) Write a shell script to create a command line calculator. 
 e.g. input : mycal 5 + 5 Result : 10 , input : mycal 5 / 5 result : 1
 
 3) Write a Unix shell script to accept 10 number and tell how many are +tive, -tive and zero. 
