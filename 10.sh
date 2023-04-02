@@ -27,7 +27,7 @@ then
 		;;
 		"b")
 			read -p "enter name of file1.txt " file1
-			ap=`cat $file1 | tee -p $file2`
+			ap=`cat $file1 | tee -a $file2`
 			echo "$ap"
 			echo "$file1 appended to $file2"
 		;;
